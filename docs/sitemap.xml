@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost/posts/my-second-post/</loc>
+    <loc>https://jfine.github.io/rocdev-hugo/posts/my-second-post/</loc>
     <lastmod>2017-08-02T20:11:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/posts/my-first-post/</loc>
+    <loc>https://jfine.github.io/rocdev-hugo/posts/my-first-post/</loc>
     <lastmod>2017-08-02T20:08:32-04:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost/categories/</loc>
+    <loc>https://jfine.github.io/rocdev-hugo/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost/posts/</loc>
+    <loc>https://jfine.github.io/rocdev-hugo/posts/</loc>
     <lastmod>2017-08-02T20:11:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost/</loc>
+    <loc>https://jfine.github.io/rocdev-hugo/</loc>
     <lastmod>2017-08-02T20:11:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost/tags/</loc>
+    <loc>https://jfine.github.io/rocdev-hugo/tags/</loc>
     <priority>0</priority>
   </url>
   

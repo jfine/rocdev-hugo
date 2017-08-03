@@ -1,4 +1,4 @@
-baseurl = "http://localhost/"
+baseurl = "https://jfine.github.io/rocdev-hugo/"
 languageCode = "en-gb"
 title = "ROCDev Hugo"
 theme = "hpstr-hugo-theme"
